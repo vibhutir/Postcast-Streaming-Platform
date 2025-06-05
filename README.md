@@ -22,6 +22,13 @@ A scalable podcast streaming platform built with microservices architecture.
 2. Build Docker images
 3. Start with `docker-compose up` or deploy to Kubernetes
 
+## Database Setup
+
+To initialize the database and tables, run:
+
+psql -U postgres -f setup.sql
+
+
 ## API Endpoints
 - `/users/register` - Register new user
 - `/podcasts` - List podcasts
