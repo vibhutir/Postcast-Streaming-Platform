@@ -15,7 +15,7 @@ A scalable podcast streaming platform built with microservices architecture.
 - **API Gateway:** Routes client requests to services.
 
 ## Tech Stack
-- C, Go, Rust, Docker, Kubernetes, PostgreSQL, MinIO (object storage)
+- C, Go, Rust, Docker, Kubernetes, PostgreSQL
 
 ## Getting Started
 1. Clone the repo
